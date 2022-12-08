@@ -1,4 +1,4 @@
-package com.example.bunk;
+package Fintech.bank;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
