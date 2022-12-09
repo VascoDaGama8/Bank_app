@@ -4,6 +4,8 @@ package Fintech.bank.Controllers;
 
 import Fintech.bank.Models.User;
 import Fintech.bank.Services.UserService;
+import io.swagger.annotations.Api;
+import io.swagger.annotations.ApiOperation;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
